@@ -1,4 +1,4 @@
-# Archer3D
+# Archery3D
 Poruszamy się WASD.
 W - do przodu,
 S - do tyłu,
